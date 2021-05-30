@@ -55,3 +55,5 @@
 /Users/manit/github/blazor/obj/Debug/net5.0/blazor.pdb
 /Users/manit/github/blazor/obj/Debug/net5.0/blazor.genruntimeconfig.cache
 /Users/manit/github/blazor/obj/Debug/net5.0/blazor.csproj.CopyComplete
+/Users/manit/github/blazor/obj/Debug/net5.0/RazorDeclaration/Pages/Todo.razor.g.cs
+/Users/manit/github/blazor/obj/Debug/net5.0/Razor/Pages/Todo.razor.g.cs
